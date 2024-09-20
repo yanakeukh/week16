@@ -1,0 +1,10 @@
+.homepage {
+    background-color: rgb(238, 177, 229);
+}
+
+
+.homepage-main {
+    width: 1300px;
+    margin: auto;
+    align-items: center;
+}
